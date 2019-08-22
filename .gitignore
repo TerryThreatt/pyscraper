@@ -1,0 +1,5 @@
+# files
+.DS_Store
+RealEstateScraper.ipynb
+.ipynb_checkpoints
+TestScraper.ipynb
